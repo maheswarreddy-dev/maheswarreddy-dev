@@ -32,5 +32,6 @@ I can apply my Python and SQL skills and continue learning.
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [My LinkedIn](PASTE_YOUR_LINKEDIN_LINK_HERE)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/m-maheswar-reddy/)
 - GitHub: [My GitHub](https://github.com/maheswarreddy-dev)
+- Email: [yourname@gmail.com](mekalamaheswarreddy53@gmail.com)
