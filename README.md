@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm M Maheswar Reddy 👋
 
-<!--
-**maheswarreddy-dev/maheswarreddy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Python Developer
 
-Here are some ideas to get you started:
+I'm an MCA student interested in Python development and SQL.
+I enjoy learning programming concepts, solving coding problems,
+and building my technical skills through practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- MySQL
+- GitHub
+
+## 🏆 Certifications & Training
+
+- **Python & Data Structures Bootcamp** — Tap Academy, May 2026
+- **Python Internship Training** — Divith Techno Solutions, May–Jun 2024
+- **Python (Basic) Certificate** — HackerRank
+
+## 📚 Currently Learning
+
+- Python Development
+- SQL & Database Management
+- Data Structures & Algorithms
+
+## 🎯 Career Goal
+
+Seeking an entry-level software development opportunity where
+I can apply my Python and SQL skills and continue learning.
+
+## 🔗 Connect With Me
+
+- LinkedIn: [My LinkedIn](PASTE_YOUR_LINKEDIN_LINK_HERE)
+- GitHub: [My GitHub](https://github.com/maheswarreddy-dev)
